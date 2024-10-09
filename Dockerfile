@@ -1,5 +1,5 @@
 
-ARG NODE_VERSION=20-alpine
+ARG NODE_VERSION=20
 
 ################################################################################
 # Use node image for base image for all stages.
